@@ -39,3 +39,9 @@ Data Analysis Project using Python
     <li>Significant patterns</li>
     <li>Anomalies in sales during the Diwali period</li>
 </ul>
+
+<b><p>Screenshots</b></p>
+<p><img src = "https://github.com/shloktilokani/Python---Project-1---Diwali-Sales-Analysis/blob/main/images/2023-12-09%2001_09_00-.png"></p>
+<p><img src = "https://github.com/shloktilokani/Python---Project-1---Diwali-Sales-Analysis/blob/main/images/2023-12-09%2001_09_15-.png"></p>
+<p><img src = "https://github.com/shloktilokani/Python---Project-1---Diwali-Sales-Analysis/blob/main/images/2023-12-09%2001_12_23-.png"></p>
+<p><img src = "https://github.com/shloktilokani/Python---Project-1---Diwali-Sales-Analysis/blob/main/images/q.png"></p>
